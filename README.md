@@ -5,8 +5,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rask5&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rask5&repo=github-readme-stats)](https://github.com/rask5/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rask5&show_icons=true&theme=tokyonight)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rask5&label=Profile%20views&color=ff1d00&style=flat" alt="rask5" /> </p>
